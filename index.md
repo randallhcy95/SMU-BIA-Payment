@@ -23,4 +23,4 @@ Below are the instructions on how you can sign up and pay for the membership thr
 
 7.	Once we have verified the transaction, we will get back to you in a day’s time to confirm your membership. 
 
-![Image](https://github.com/randallhcy95/SMUBIAPayment/blob/master/image002.png)
+[Image](https://github.com/randallhcy95/SMUBIAPayment/blob/master/image002.png)
