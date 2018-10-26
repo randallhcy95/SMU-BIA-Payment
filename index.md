@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to SMU BIA
 
-You can use the [editor on GitHub](https://github.com/randallhcy95/SMUBIAPayment/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you so much for your interest in SMU-BIA and our events. We are very glad to have you joining us.
+ 
+To support the sustainability of our club, we kindly request all members to contribute a minimal amount of $15. 
+Below are the instructions on how you can sign up and pay for the membership through bank transfer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Membership Fee Payment Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.	Fill up the membership form [here](https://goo.gl/forms/ekep5gEFnQQVuUTy2)
 
-```markdown
-Syntax highlighted code block
+2.	Transfer $15 only to the following bank account: 
+    ## POSB 421-98355-0
 
-# Header 1
-## Header 2
-### Header 3
+3.	**IMPORTANT** In the transaction description, key in your email short ID into the description box (e.g. randallheng.2016). This is for us to track the transaction
 
-- Bulleted
-- List
+4.	Take a screenshot of your transaction details & description (ensure the transaction amount, your bank account number and your email short ID are shown clearly) – refer to the example below.
 
-1. Numbered
-2. List
+5.	Reply to this email with your attached screenshot (please attach the image in the reply email)
 
-**Bold** and _Italic_ and `Code` text
+6.	Once we have verified the transaction, we will get back to you in a day’s time to confirm your membership. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/randallhcy95/SMUBIAPayment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
