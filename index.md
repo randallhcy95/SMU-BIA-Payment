@@ -19,8 +19,8 @@ Below are the instructions on how you can sign up and pay for the membership thr
 
 5.	Reply to this email with your attached screenshot (please attach the image in the reply email)
 
-6.	Once we have verified the transaction, we will get back to you in a day’s time to confirm your membership. 
+6. Email us at **bia@sa.smu.edu.sg** or Telegram Randall at **@Onooooooo**
 
+7.	Once we have verified the transaction, we will get back to you in a day’s time to confirm your membership. 
 
-
-
+![Image](https://github.com/randallhcy95/SMUBIAPayment/blob/master/image002.png)
